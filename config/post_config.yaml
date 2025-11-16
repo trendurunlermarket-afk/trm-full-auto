@@ -1,0 +1,4 @@
+bot_token: "8484106906:AAGQauHVFakxCMx2egKsTmuNF9_ASWxj5UY"
+post_chat: "@trend_urunler"
+posts_per_run: 5
+state_file: "post_state.json"

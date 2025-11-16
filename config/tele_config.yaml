@@ -1,0 +1,24 @@
+api_id: 21406034
+api_hash: "c0c5a326621acf53d21a4a6e9c83a50f"
+bot_token: "8484106906:AAGQauHVFakxCMx2egKsTmuNF9_ASWxj5UY"
+
+session_name: "fahri_session"
+phone: "+905426235116"
+
+# Ürünleri toplayacağımız Telegram grupları / kanalları
+target_chats:
+  - "https://t.me/magazanolsunresmi"
+  - "https://t.me/+RIMJIXIcIUEaU5l7"
+  - "https://t.me/joinchat/NjrBgUSZTCMu2gKyZlNVvg"
+  - "https://t.me/joinchat/TTPY8bgUc9a9RrdU"
+  - "https://t.me/+VqsBTuGIfaj0q1EM"
+  - "https://t.me/+8re-V9ekr5U0NjY8"
+  - "https://t.me/+_J0qTcwwQz80NzQ0"
+  - "https://t.me/TTPY8S7zlv0nge0i"
+  - "https://t.me/vinegral"
+  - "https://t.me/Soletasarruf"
+
+# Çıktı ayarları
+output_folder: "SYNC"
+save_media: true
+max_messages: 50

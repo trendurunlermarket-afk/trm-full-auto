@@ -1,0 +1,28 @@
+mode: LOCAL_ONLY
+
+paths:
+  source_folder: "SYNC"
+  output_folder: "SYNC_OUT"
+
+logging:
+  enable_console: true
+  enable_file: true
+  log_file: "logs/sync_log.txt"
+
+operations:
+  copy_from_sync: true
+  clean_empty_folders: true
+
+drive:
+  enable: false
+  folder_id: ""
+
+telegram:
+  enable: false
+  bot_token: ""
+  chat_id: ""
+
+metricool:
+  enable: false
+  api_key: ""
+  profile: ""
